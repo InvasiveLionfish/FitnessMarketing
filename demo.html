@@ -27,7 +27,7 @@
 
 <!-- THIS IS THE FORM CODE-->
 
-<form action="//formspree.io/mayankmishra@zoommediaconnect.com"
+<form id="contactform"
       method="POST">
     <input type="text" name="name" placeholder="Your Name">
     <input type="email" name="_replyto" placeholder="Your Email">
@@ -38,6 +38,10 @@
     <input type="hidden" name="_subject" value="New submission!" />
     <input type="hidden" name="_next" value="//zoomtucson.github.io/FitnessMarketing//thanks.html"/>
 </form> 
+<script>
+    var contactform =  document.getElementById('contactform');
+    contactform.setAttribute('action', '//formspree.io/' + 'mayankmishra' + '@' + 'zoommediaconnect' + '.' + 'com');
+</script>
 
 <!-- END FORM-->
 
