@@ -194,9 +194,9 @@ overflow:hidden;
 
 .intro-header-legal {
     padding-top: 50px; 
-    padding-bottom: 400px;
+    padding-bottom: 300px;
     text-align: center;
-    color: #f8f8f8;
+    color: #000000;
     background: url(../img/fitness-consumer.jpg) no-repeat center center;
     background-size: cover;
 }
