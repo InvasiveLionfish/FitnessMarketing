@@ -191,3 +191,12 @@ width:205px;
 height:245px;
 overflow:hidden;
 }
+
+.intro-header-legal {
+    padding-top: 50px; 
+    padding-bottom: 50px;
+    text-align: center;
+    color: #f8f8f8;
+    background: url(../img/bg-us-running.jpg) no-repeat center center;
+    background-size: cover;
+}
