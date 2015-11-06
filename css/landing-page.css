@@ -39,16 +39,6 @@ h6 {
     background-size: cover;
 }
 
-/* For about.html CUSTOM CREATED BY ME*/
-.intro-header-about {
-    padding-top: 10px; 
-    padding-bottom: 10px;
-    text-align: center;
-    color: #f8f8f8;
-    background: url(../img/bg-us-running.jpg) no-repeat center center;
-    background-size: cover;
-}
-
 .intro-message {
     position: relative;
     padding-top: 20%;
@@ -177,4 +167,21 @@ footer {
 
 p.copyright {
     margin: 15px 0 0;
+}
+
+/* ********** For about.html CUSTOM CREATED BY ME  ************ */
+
+.intro-header-about {
+    padding-top: 10px; 
+    padding-bottom: 10px;
+    text-align: center;
+    color: #f8f8f8;
+    background: url(../img/bg-us-running.jpg) no-repeat center center;
+    background-size: cover;
+}
+
+.intro-message-about {
+    position: relative;
+    padding-top: 20%;
+    padding-bottom: 20%;
 }
