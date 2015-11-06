@@ -39,9 +39,10 @@ h6 {
     background-size: cover;
 }
 
+/* For about.html CUSTOM CREATED BY ME*/
 .intro-header-about {
-    padding-top: 70px; /* For about.html CUSTOM CREATED BY ME*/
-    padding-bottom: 20px;
+    padding-top: 10px; 
+    padding-bottom: 10px;
     text-align: center;
     color: #f8f8f8;
     background: url(../img/Kashi.jpg) no-repeat center center;
