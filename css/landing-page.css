@@ -209,12 +209,12 @@ overflow:hidden;
 }
 
 .tinted-image {
-    background-image:  
+    background:  
     linear-gradient(
       rgba(255, 0, 0, 0.45), 
       rgba(255, 0, 0, 0.45)
-    );
-    background: url("img/bg-us-running.jpg") no-repeat center center;
+    ),
+    url("img/bg-us-running.jpg") no-repeat center center;
     background-size: cover;
     background-color: #19b9e7;
 
