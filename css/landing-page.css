@@ -207,3 +207,16 @@ overflow:hidden;
   margin-right: auto;
   margin-left: auto;
 }
+
+.tinted-image {
+  background: 
+    /* top, transparent red, faked with gradient */ 
+    linear-gradient(
+      rgba(255, 0, 0, 0.45), 
+      rgba(255, 0, 0, 0.45)
+    );
+    background: url("img/bg-us-running.jpg") no-repeat center center;
+    background-size: cover;
+    background-color: #19b9e7;
+
+}
