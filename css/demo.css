@@ -218,6 +218,7 @@ overflow:hidden;
 /* *** CUSTOM CSS FOR DEMO.HTML Above was for Landing Page *** */
 
 .demo-box {
+    background-color: lightgrey;
     width: 300px;
     padding: 25px;
     border: 25px solid navy;
