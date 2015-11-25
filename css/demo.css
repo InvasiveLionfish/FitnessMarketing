@@ -215,3 +215,14 @@ overflow:hidden;
 
 }
 
+/* *** CUSTOM CSS FOR DEMO.HTML Above was for Landing Page *** */
+
+.demo-box {
+    width: 300px;
+    padding: 25px;
+    border: 25px solid navy;
+    margin: 25px;
+}
+
+
+
